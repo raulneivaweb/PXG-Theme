@@ -3,11 +3,11 @@ Tema Wordpress desenvolvido para o Portal PXG (Fã site <a href="www.pokexgames.
 
 ### Páginas
 
-+ [X] Inicial
-+ [X] Blog
-    + [X] Leitura Posts Blog
-+ [X] Busca Personalizada
-+ [X] Lista de Parceiros
++ [ ] Inicial
++ [  Blog
+    + [  Leitura Posts Blog
++ [  Busca Personalizada
++ [  Lista de Parceiros
     
 #### Plugins usados no desenvolvimento
 
