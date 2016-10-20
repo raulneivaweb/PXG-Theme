@@ -1,0 +1,89 @@
+/*
+Theme Name: Portal PXG
+Theme URI: https://portalpxg.com/tema
+Author: Raul Neiva
+Author URI: https://portalpxg.com
+Description: Tema criado para o Portal PXG.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: Portal PXG
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* header */
+.header{background: #eee;border-top:3px solid #0f7ace;padding: 10px 0;}
+.logo{}
+
+/* slider */
+.slider{margin-top: 15px;}		
+
+/* boxes */
+.width-full-box{background: #eee;padding: 15px 0;margin: 15px 0;}
+.title-box h4{background: #0f7ace;color: #fff;padding: 10px;border-bottom: 3px solid #11bfff;border-radius: 5px;}
+.ultimas-noticias{}
+.ultimas-noticias span{text-transform: uppercase;color: #000;font-weight: bold;font-size: 12px;padding: 10px 0;display: inline-block;}
+.ultimas-noticias h1{margin: 0;font-size: 18px;font-weight: bold;}
+.ultimas-noticias h1 a{color: #900;}
+
+/* postagens */
+#postagens{background: #fff;}
+#postagens span{text-transform: uppercase;color: #000;font-weight: bold;font-size: 12px;padding: 10px 0;display: inline-block;}
+
+/* video-home */
+#video{}
+
+/* single posts */
+.single{padding: 40px 0;}
+.conteudo-single{}
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.conteudo-single p{font-size: 16px;color: #555;}
+.conteudo-single img{display: block; max-width: 100%;height: auto;}
+.conteudo-single h1{font-weight: 700;color: #900;}
+.conteudo-single h2{font-weight: 700;color: #069;}
+.conteudo-single h3{font-weight: 700;color: #0f7ace;}
+.conteudo-single h4{color: #900;}
+.conteudo-single h5{color: #900;}
+.conteudo-single h6{color: #587;}
+.conteudo-single ul{margin: 0;padding: 0;}
+.conteudo-single ul li{padding: 10px 0;color: #000;font-weight: 14px 0;}
+.conteudo-single ol{margin: 0;padding: 14px 0;}
+.conteudo-single ol li{padding: 10px 0;color: #358;}
+.conteudo-single blockquote{background: #eee;padding: 20px;border-radius: 6px;color: #fff;border-left: 4px solid #900;}
+
+/* sidebar */
+.sidebar{}
+.widget{background: transparent; list-style: none;} 
+.widget h2{font-weight: 700;text-transform: uppercase;font-size: 18px;}
+.widget ul{margin: 0;padding: 0;list-style: none;}
+.widget ul li{}
+
+/*footer*/
+.footer-principal{background: #eee;width: 100%;}
+.footer{margin-top: 45px;}
+.footer .title-box h4{background: #0f7ace;border-bottom: 3px solid #11bfff;}
+.footer-copy{background: #0f7ace;padding: 3px 0;color: #fff;margin-top:15px;}
+
+/* minha conta */
+.minha-conta li{list-style: none;}
+.minha-conta h2{text-transform: uppercase;color: #900;font-size: 15px;}
+
+/* rodape */
+.sobre-rodape{list-style: none;}
+.sobre-rodape h2{font-size: 18px;}
+
+/* links-rodape */
+.links-rodape{list-style: none;} 
+.links-rodape h2{font-size: 18px;}
+
+/* hospedagem-rodape */
+.hospedagem-rodape{list-style: none;}
+.hospedagem-rodape h2{font-size: 18px;}
