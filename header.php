@@ -11,6 +11,7 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo('stylesheet_url'); ?>" />
     <link href="<?php bloginfo('template_url') ?>/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/magnific-popup.css">
 
     <!-- Google Fonte -->
     <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700' rel='stylesheet' type='text/css'>
