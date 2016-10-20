@@ -1,4 +1,4 @@
-<center><img src="https://s17.postimg.org/fb74xp6jv/screenshot.png"/></center>
+<center><img src="https://s17.postimg.org/vyyn071bj/screenshot.png"/></center>
 
 # PXG-Theme
 Tema Wordpress desenvolvido para o Portal PXG (Fã site <a href="www.pokexgames.com" target="_blank">PokeXGames</a>) - <a href="www.portalpxg.com" target="_blank">Portal PXG</a>.
